@@ -29,7 +29,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/milosctokurwa/milosctokurwa/output/snake.svg" alt="Snake animation" />
-
-###
